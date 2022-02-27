@@ -1,7 +1,7 @@
-[![MasterHead](https://www.ampcus.com/wp-content/uploads/2017/12/Artificial-Intelligence-banner.jpg)]
+![MasterHead](https://dc-mkt-prod.cloud.bosch.tech/xrm/media/global/articles/experts_view_artificial_intelligence/ai-banner.jpg)
 <h1 align="center">Hi 👋, I'm Shriya Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" scr="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
+<img align="right" width="100" scr="https://image.shutterstock.com/image-vector/modern-young-woman-sitting-on-260nw-1920630998.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazy-coder-404&label=Profile%20views&color=0e75b6&style=flat" alt="crazy-coder-404" /> </p>
 
